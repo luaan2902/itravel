@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "271777486959",
+    "firebase_url": "https://itravel-7c7a5.firebaseio.com",
+    "project_id": "itravel-7c7a5",
+    "storage_bucket": "itravel-7c7a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271777486959:android:2a14a578d7cf739f",
+        "android_client_info": {
+          "package_name": "com.app.al.itravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271777486959-nuo9evmls7p9e80bm177f4crurna78cj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.al.itravel",
+            "certificate_hash": "12d29f402e14b2931ea7b720fd4c76414942c7d3"
+          }
+        },
+        {
+          "client_id": "271777486959-0rma8r66i9ggj3ks0gooq67g5k8g20ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl95ET8ndl1soGOSDKT_q7Pm4NqaKgeyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271777486959-0rma8r66i9ggj3ks0gooq67g5k8g20ug.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "271777486959-74dvk2mf4itk46fe35c7jclcrc25p2mu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.al.itravel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
